@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6d3447f6-c873-41c5-8a56-685d4d23b3da",
+  "export_job_id": "47037ab1-6eb1-4f6f-be62-ff90448e7393",
   "id_short": 582374,
-  "published_at": "2026-04-28T19:45:11Z",
+  "published_at": "2026-05-06T07:15:35Z",
   "repo_name": "all-restaurants-in-tyler-texas-us-sample-582374",
   "sample_asset_name": "beamstation_582374_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/582374/beamstation_582374_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "780b63d81d9e596ce451e00cd77e6671782f42716c29555e5aae9c85634a88ff",
-  "sample_size_bytes": 133706,
-  "total_records": 331
+  "sample_records": 42,
+  "sample_sha256": "9dacafeab5c935378c778d7a72246391d6b7fe51733f900185fe8fdea92cb287",
+  "sample_size_bytes": 159086,
+  "total_records": 428
 }
